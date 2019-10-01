@@ -1,0 +1,89 @@
+AniBtnPlaySprite.png
+size: 1400, 1200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taptoflipbutton1
+  rotate: false
+  xy: 0, 0
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton2
+  rotate: false
+  xy: 700, 0
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton3
+  rotate: false
+  xy: 0, 200
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton4
+  rotate: false
+  xy: 700, 200
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton5
+  rotate: false
+  xy: 0, 400
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton6
+  rotate: false
+  xy: 700, 400
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton7
+  rotate: false
+  xy: 0, 600
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton8
+  rotate: false
+  xy: 700, 600
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton9
+  rotate: false
+  xy: 0, 800
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton91
+  rotate: false
+  xy: 700, 800
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton92
+  rotate: false
+  xy: 0, 1000
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1
+taptoflipbutton93
+  rotate: false
+  xy: 700, 1000
+  size: 700, 200
+  orig: 700, 200
+  offset: 0, 0
+  index: -1

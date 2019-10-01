@@ -1,0 +1,19 @@
+SprAniPlayer.png
+size: 372, 456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+runningright inverted
+  rotate: false
+  xy: 0, 0
+  size: 372, 152
+  orig: 372, 152
+  offset: 0, 0
+  index: -1
+SprPlayer
+  rotate: false
+  xy: 0, 152
+  size: 372, 304
+  orig: 372, 304
+  offset: 0, 0
+  index: -1

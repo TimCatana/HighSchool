@@ -1,0 +1,1 @@
+The main goal of the game is to fly side to side trying to avoid the spikes. Everytime you hit a wall you will turn around and start flying the other way. If you hit a spike the game will end and you will have to start from the beginning. You can also collect coins.

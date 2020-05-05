@@ -1,8 +1,8 @@
 # SpikesGame
 ------------------------------------
 
-My very first game ever created. Uses the [Processing](https://processing.org/) Programming language.
-It was created as a replica of the game [Don't Touch The Spikes](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+My very first game created using the [Processing](https://processing.org/) Programming language.
+It was created as a replica of the game [Don't Touch The Spikes] (https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 created by [Ketchapp](http://www.ketchappgames.com/) and was handed in as a final summative in my 
 grade 10 programming course.
 
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 # WhimsicalLED
 ------------------------------------
 
-A C based program used to run "whimsical" patterns on an RGB NeoPixel LED strip. A project given in my grade 12
+A C Program used to run "whimsical" patterns on an RGB NeoPixel LED strip. A project given in my grade 12
 Computer Technology course.
 
 ## Description
@@ -85,7 +85,7 @@ plug the board into a NeoPixel LED strip and read the code for the different fun
 NOTE: I was complelety new to the C programming language when I wrote this and I realize the code is not the greatest
 
 ###### Contributors
-- None
+- @Ameer-Mushani
 
 
 

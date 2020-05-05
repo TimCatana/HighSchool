@@ -2,7 +2,7 @@
 ------------------------------------
 
 My very first game ever created. Uses the [Processing](https://processing.org/) Programming language.
-It was created as a replica of the game [Don't Touch The Spikes] (https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+It was created as a replica of the game [Don't Touch The Spikes](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 created by [Ketchapp](http://www.ketchappgames.com/) and was handed in as a final summative in my 
 grade 10 programming course.
 

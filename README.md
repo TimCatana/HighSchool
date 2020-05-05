@@ -8,9 +8,9 @@ grade 10 programming course.
 
 ## Game Description
 
-**Game Type: Arcade**
-**Language: Processing**
-**Created For: Desktop (any OS)**
+- **Game Type:** Arcade
+- **Language:** Processing
+- **Created For:** Desktop (any OS)
 
 You (the ball) are bouncing back and forth between two walls. Spikes randomly appear on the
 wall that you are headed towards and you must click the screen to cause the ball to bounce in 
@@ -32,9 +32,9 @@ Was handed in as my final summative for my grade 11 programming course.
 
 ## Game Description
 
-**Game Type: Arcade**
-**Language: Java (LibGDX)**
-**Created For: Desktop (any OS)**
+- **Game Type:** Arcade
+- **Language:** Java (LibGDX)
+- **Created For:** Desktop (any OS)
 
 A bunch of different looking arrows are being brought accross a conveyor belt. You must click the 
 correspnding stationary arrow while the moving arrow is in the "green space". The "green space" will
@@ -55,9 +55,9 @@ It is an android based mobile game. was handed in as a final summative in my gra
 
 ## Game Description
 
-**Game Type: Endless Runner**
-**Language: Java (LibGDX)**
-**Created For: Android Mobile, Desktop (any OS)**
+- **Game Type:** Endless Runner
+- **Language:** Java (LibGDX)
+- **Created For:** Android Mobile, Desktop (any OS)
 
 You are a character endlessly running while random obstacles are being thrown your way. Your
 objective is to avoid these obsticles by changing "gravity". This can be done by simply tapping 
@@ -77,7 +77,7 @@ Computer Technology course.
 
 ## Description
 
-**Created For: PIC12F1840 RAINBO Circuit Board**
+- **Created For:** PIC12F1840 RAINBO Board
 
 Put the code into your desired circuit board (NOTE: code must be modified to fix your board needs),
 plug the board into a NeoPixel LED strip and read the code for the different functions.

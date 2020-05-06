@@ -1,5 +1,5 @@
 # SpikesGame
-------------------------------------
+
 
 My very first game created using the [Processing](https://processing.org/) Programming language.
 It was created as a replica of the game [Don't Touch The Spikes](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 
 # ArrowGame
-------------------------------------
+
 
 A game created using the [LibGDX](https://libgdx.badlogicgames.com/) java game development framework.
 Was handed in as my final summative for my grade 11 programming course.
@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 
 # GameGravity
-------------------------------------
+
 
 A second game created using the [LibGDX](https://libgdx.badlogicgames.com/) java game development framework.
 It was created as a replica of the game [Gravity Guy](https://en.wikipedia.org/wiki/Gravity_Guy).
@@ -70,7 +70,7 @@ ________________________________________________________________________________
 
 
 # WhimsicalLED
-------------------------------------
+
 
 A C Program used to run "whimsical" patterns on an RGB NeoPixel LED strip. A project given in my grade 12
 Computer Technology course.

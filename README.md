@@ -85,7 +85,7 @@ plug the board into a NeoPixel LED strip and read the code for the different fun
 NOTE: I was complelety new to the C programming language when I wrote this and I realize the code is not the greatest
 
 ###### Contributors
-- @Ameer-Mushani
+- None
 
 
 

@@ -34,7 +34,7 @@ Was handed in as my final summative for my grade 11 programming course.
 
 - **Game Type:** Arcade
 - **Language:** Java (LibGDX)
-- **Created For:** Desktop (any OS)
+- **Created For:** Android Mobile, Desktop (any OS)
 
 A bunch of different looking arrows are being brought accross a conveyor belt. You must click the 
 correspnding stationary arrow while the moving arrow is in the "green space". The "green space" will
